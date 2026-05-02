@@ -12,7 +12,7 @@ description: >-
   Web App Security, CCNA networking, and Penetration Testing methodologies.
 
 # Use your custom domain if active, otherwise use omar-main.github.io
-url: "https://YOUR_DOMAIN.tech" 
+url: "https://omar-main.github.io/" 
 
 github:
   username: omar-main
@@ -22,7 +22,7 @@ social:
   email: omar.fahim@example.com # Update this to your preferred contact email
   links:
     - https://github.com/omar-main
-    - https://www.linkedin.com/in/your-profile # Add your actual LinkedIn URL here
+    - https://www.linkedin.com/in/i-am-omar-fahim # Add your actual LinkedIn URL here
 
 # ↑ --------------------------
 
