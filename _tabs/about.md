@@ -12,7 +12,7 @@ I am a Cybersecurity student at **Asia Pacific University (APU)** with a focus o
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### **Security & Pentesting**
 *   **Operating Systems:** Kali Linux[cite: 2]
