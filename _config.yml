@@ -32,7 +32,7 @@ theme_mode: dark
 
 # Avatar on sidebar
 # Tip: Upload a photo to assets/img/avatar.jpg in your repo
-avatar: /assets/img/avatar.jpg
+# avatar: /assets/img/avatar.jpg
 
 # Logic & Layouts
 toc: true
