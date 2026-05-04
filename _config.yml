@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: Asia/Kuala_Lumpur
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -27,6 +27,14 @@ url: "https://omarfahim.tech"
 
 github:
   username: omar-main # change to your GitHub username
+
+social:
+  name: Omar Amir Fahim
+  email: # add your public contact email here if desired
+  links:
+    - https://github.com/omar-main
+    # - https://twitter.com/yourusername
+    # - https://www.linkedin.com/in/yourusername
 
 # Site Verification Settings
 webmaster_verifications:
@@ -82,11 +90,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/PFP.png
+avatar: /assets/img/PFP.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/PFP.png # replace with a 1200×630 banner image for best OG card results
 
 # boolean type, the global switch for TOC in posts.
 toc: true
